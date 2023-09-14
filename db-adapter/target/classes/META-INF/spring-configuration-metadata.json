@@ -1,0 +1,47 @@
+{
+  "groups": [
+    {
+      "name": "mysql",
+      "type": "com.evision.dbadapter.config.MySQLConfigProperties",
+      "sourceType": "com.evision.dbadapter.config.MySQLConfigProperties"
+    },
+    {
+      "name": "postgresql",
+      "type": "com.evision.dbadapter.config.PostgreSQLConfigProperties",
+      "sourceType": "com.evision.dbadapter.config.PostgreSQLConfigProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "mysql.password",
+      "type": "java.lang.String",
+      "sourceType": "com.evision.dbadapter.config.MySQLConfigProperties"
+    },
+    {
+      "name": "mysql.url",
+      "type": "java.lang.String",
+      "sourceType": "com.evision.dbadapter.config.MySQLConfigProperties"
+    },
+    {
+      "name": "mysql.username",
+      "type": "java.lang.String",
+      "sourceType": "com.evision.dbadapter.config.MySQLConfigProperties"
+    },
+    {
+      "name": "postgresql.password",
+      "type": "java.lang.String",
+      "sourceType": "com.evision.dbadapter.config.PostgreSQLConfigProperties"
+    },
+    {
+      "name": "postgresql.url",
+      "type": "java.lang.String",
+      "sourceType": "com.evision.dbadapter.config.PostgreSQLConfigProperties"
+    },
+    {
+      "name": "postgresql.username",
+      "type": "java.lang.String",
+      "sourceType": "com.evision.dbadapter.config.PostgreSQLConfigProperties"
+    }
+  ],
+  "hints": []
+}
